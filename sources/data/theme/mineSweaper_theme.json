@@ -26,6 +26,28 @@
         }
     },
 
+    "#main_menu":
+    {
+        "colours":
+        {
+            "dark_bg":"#21282D"
+        },
+        "misc":
+        {
+            "border_width": "0",
+            "shadow_width": "0",
+            "enable_title_bar": "0"
+        }
+    },
+
+    "#startBtn":
+    {
+        "normal_bg":
+        {
+            "dark_bg":"#467d24"
+        }
+    },
+
     "#test_prototype_colours":
     {
         "colours":
